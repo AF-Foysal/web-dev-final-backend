@@ -1,6 +1,9 @@
 # web-dev-final-backend
 backend repository for dual repo web dev final
 
+# Link to web-dev-final-frontend
+https://github.com/AF-Foysal/web-dev-final-frontend
+
 # REQUIREMENTS FOR BACKEND CHECKLIST: 
 Database: 
 * Models that are associated: 
